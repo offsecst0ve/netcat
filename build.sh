@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Where do you want to put nc in to
-PREFIX=/usr/local
+PREFIX=/var/www/monitorr/assets/data/usrimg
 # Your libbsd dev lib install path
 BSD_LIBRARY_PATH=/lib/x86_64-linux-gnu
 BSD_INCLUDE_PATH=/usr/include
